@@ -65,7 +65,7 @@ section a{
 	line-height: 32px;
 }
 
-div a{
+section div a{
 	text-decoration: none;
 	color: #707070;
 	font-size: 30px;
@@ -78,4 +78,48 @@ h2{
 	font-size: 40px;
 	letter-spacing: 0.4px;
 	line-height: 53px;
+}
+
+footer ul a{
+	color: #F2F2F2;
+	text-decoration: none;
+}
+
+footer div{
+	color: #F2F2F2;
+	font-size: 20px;
+	letter-spacing: 0.2px;
+	line-height: 17px;
+}
+
+footer a{
+	color: #F8F8F8;
+	font-size: 13px;
+	letter-spacing: 0.13px;
+	line-height: 17px;
+}
+
+footer ol{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 19px;
+	letter-spacing: 0.19px;
+	line-height: 17px;
+}
+
+footer ol a{
+	font-size: 13px;
+	letter-spacing: 0.13px;
+	line-height: 17px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+ol{
+	list-style-type: none;
+}
+
+.divlogo{
+	width: 43.95px;
+	height: 43.95px;
 }
